@@ -1,3 +1,7 @@
+## Acknowledgements
+
+- Thanks to [andrejnevesjr](https://github.com/andrejnevesjr) for their [airflow-spark-minio-postgres]([https://github.com/username/repo](https://github.com/andrejnevesjr/airflow-spark-minio-postgres), which inspired/was used in this project.
+
 ## Table of contents
 - [Table of contents](#table-of-contents)
 - [Project Requirements](#project-requirements)
